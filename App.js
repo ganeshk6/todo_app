@@ -5,7 +5,6 @@ import {createStore, applyMiddleware} from 'redux';
 import Todo from './component/Todo';
 import rootReducer from './reducers/rootReducer';
 
-
 import {
   Text,
   View,
